@@ -5,7 +5,8 @@ made in october 2023
 this project is a game i made in unity with c# called mazescape.
 mazescape utilizes skills i learned recently, like 
 loading new screens, handling collisions, playing sounds,
-using canvas ui elements, and changing game objects dynamically.
+using canvas ui elements, using player prefs, and changing game 
+objects dynamically.
 
 upon opening the build, a player must click start on the menuscreen.
 they will then be taken to the main screen, where they spawn as a blue square.
